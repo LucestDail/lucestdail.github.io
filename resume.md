@@ -7,50 +7,32 @@ permalink: /resume/
 # Jonathon Belotti
 
 <div id="webaddress">
-<a href="mailto:jonathon.bel.melbourne@gmail.com">jonathon.bel.melbourne@gmail.com</a>
+<a href="mailto:dhtmdgussksm@gmail.com">dhtmdgussksm@gmail.com</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/thundergolfer">thundergolfer</a>
+<i class="fa fa-github"></i> <a href="http://github.com/LucestDail">LucestDail</a>
 |
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/jonobelotti_IO">jonobelotti_IO</a>
+<i class="fa fa-twitter"></i> <a href="http://twitter.com/lucestdail">lucestdail</a>
 </div>
 
 
-## Experience
+## 경력
 
-`2017-`
-__Data Engineering Intern, Zendesk__ Work alongside the data science team on the machine learning driven Automatic Answers and Satisfaction Prediction products.
+`2018-`
+__대한민국 육군 3기갑여단 정보통신대, 가설소대장__ 여단 유선통신 관리, 소대원 관리, 지휘 및 훈련 통제
 
-`2016`
-__Web Developer, RMIT Melbourne__ Integrated xAPI into existing RMIT web tools, and worked on changing student’s relationship with their learning data.
+`2019`
+__대한민국 육군 3기갑여단 정보통신대, 운용장교__  기반통신 관리, 보안 통제, 부대운영 계획 수립, 사업계획 작성 및 예산 관리 등
 
-`2016`
-__Research Assistant, RMIT Melbourne__ Used Machine Learning and NLP libraries to predict language acquisition in second language learners.
+## 교육
 
-__Tutor (Computer Science), Indigenous Tutorial Assistance Scheme__ Tutor students in algorithm design and analysis, database concepts, and software engineering fundamentals.
+`2014-`
+__경기대학교(경기도, 수원), 응용정보통계학(주전공),컴퓨터과학(복수전공)__ 통계적 사고 방식 및 카트 분석과 R 등을 통한 데이터 시각화 방법, C 및 Java 를 통한 기초적인 프로그래밍 지식 습득
 
-## Education
+`2019`
+__ICT 폴레틱 대학(경기도, 광주), 사물인터넷 및 빅데이터 분석기법__ 공공기관 빅데이터 관리 방법 및 데이터베이스 유지 보수에 관한 실무 지식 습득, 차세대 ICT 발전 방안 교육
 
-`2015-`
-__Bachelor of Software Engineering, RMIT Melbourne__
-
-***GPA 3.9:***  100 - Web Programming, 97 - Soft. Eng. Fundamentals, 93 - Data Comm, 89 - Discrete Math
-
-`2011-13`
-__Bachelor of Environments (Architecture), University of Melbourne__
-
-`2007-10`
-__Melbourne High School__ 95.80 / 100 ATAR
-
-## University Leadership & Involvement
-
-`2016-`
-__President, Computer Science & IT Society__ Rebranded the club, completed its website and have set up new student engagement initiatives.
-
-`2014-15`
-__Lead Investment & IT Officer, Foresight Investment__ With over $50,000 AUM the group generated annualised returns of greater than 11% while the ASX200 went down.
-
-`2016-`
-__Founder & Vice President - RMIT Programming Club__ Setup club’s communication channels.branding, and website. Created leadership group and now run meetings biweekly
+`2020`
+__구디 아카데미(서울, 가산)__ Java 심화 교육 및 JSP, Spring 등 Java 활용 프로젝트 진행, MariaDB 활용한 데이터 베이스 운용 방법 습득
 
 ## Projects
 
@@ -58,8 +40,8 @@ __Founder & Vice President - RMIT Programming Club__ Setup club’s communicatio
 
 Uses Machine Learning to detect if online comments are insulting or derogatory. In the spirit of Google’s Perspective Project.
 
-### aimacode/aima-(java|python)
-Implemented the HITS (python and java) algorithm and CYK Parsing algorithm (java).
+### aimacode/aima-(java|Python)
+자바 활용한 플랫폼 구축(Java-JSP-Spring) 및 공공데이터 활용한 데이터 분석, 시각화(Python)
 
 ### sudkamp-langs-machines=(java|python)
 
@@ -97,9 +79,9 @@ Front cover design selected for J. Comp. Chem. (34:22) ([doi:10.1002/jcc.23388](
 
 ## Links
 
-* <i class="fa fa-envelope"></i> <a href="mailto:jbelotti@zendesk.com">jbelotti@zendesk.com</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/thundergolfer">thundergolfer</a><br />
-*  <i class="fa fa-twitter"></i> <a href="http://twitter.com/jonobelotti_IO">jonobelotti_IO</a><br />
+* <i class="fa fa-envelope"></i><a href="mailto:dhtmdgussksm@gmail.com">dhtmdgussksm@gmail.com</a><br />
+* <i class="fa fa-github"></i> <a href="http://github.com/LucestDail">LucestDail</a><br />
+*  <i class="fa fa-twitter"></i> <a href="https://twitter.com/lucestdail">lucestdail</a><br />
 
 <!-- ### Footer
 
